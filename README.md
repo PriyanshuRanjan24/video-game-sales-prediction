@@ -4,10 +4,17 @@ This project utilizes R to predict and analyze global video game sales. It inclu
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
-video-game-sales-prediction/ ├── video_game_sales.R # Main R script ├── cleaned_dataset.csv # Cleaned dataset ├── output_graphs/ # Visualizations (PNG format) │ ├── linear_regression.png │ ├── decision_tree.png │ └── cluster_dendrogram.png └── README.md # Project overview
-
+video-game-sales-prediction/
+├── video_game_sales.R           # Main R script
+├── cleaned_dataset.csv          # Cleaned dataset
+├── output_graphs/               # PNG visualizations
+│   ├── Linear Regression.png
+│   ├── Decision Tree visualization.png
+│   ├── Cluster Plot for VG Sales Data.png
+│   └── RMSE Comparison.png
+└── README.md                    # Project overview
 
 ---
 
@@ -52,16 +59,19 @@ video-game-sales-prediction/ ├── video_game_sales.R # Main R script ├─
 
 ---
 
-## 📊 Visualizations
+📊 Visualizations
 
 📉 Linear Regression Output  
-![Linear Regression](output_graphs/linear_regression.png)
+![Linear Regression](output_graphs/Linear%20Regression.png)
 
 🌲 Decision Tree Model  
-![Decision Tree](output_graphs/decision_tree.png)
+![Decision Tree](output_graphs/Decision%20Tree%20visualization.png)
 
 🔗 Clustering Dendrogram  
-![Clustering Dendrogram](output_graphs/cluster_dendrogram.png)
+![Clustering Dendrogram](output_graphs/Cluster%20Plot%20for%20VG%20Sales%20Data.png)
+
+📏 RMSE Comparison  
+![RMSE Comparison](output_graphs/RMSE%20Comparison.png)
 
 ---
 
