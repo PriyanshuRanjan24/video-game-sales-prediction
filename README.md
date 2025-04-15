@@ -16,9 +16,10 @@ video-game-sales-prediction/
 │   └── RMSE Comparison.png
 └── README.md                    # Project overview
 
+
 ---
 
-## 📊 Dataset
+## 📊 **Dataset**
 
 - **Source**: [Kaggle - Video Game Sales with Ratings](https://www.kaggle.com/datasets/gregorut/videogamesales)
 - **Features**:
@@ -27,7 +28,7 @@ video-game-sales-prediction/
 
 ---
 
-## 🛠 Tools & Libraries
+## 🛠 **Tools & Libraries**
 
 - **Language**: R
 - **Libraries Used**:
@@ -39,42 +40,42 @@ video-game-sales-prediction/
 
 ---
 
-## 📈 Methodology
+## 📈 **Methodology**
 
-### 🔹 Data Preprocessing
+### 🔹 **Data Preprocessing**
 - Handled missing values
 - Filtered relevant columns
 - Converted data types appropriately
 
-### 🔹 Exploratory Data Analysis (EDA)
+### 🔹 **Exploratory Data Analysis (EDA)**
 - Visualized sales distributions
 - Identified top-selling genres and platforms
 
-### 🔹 Clustering
+### 🔹 **Clustering**
 - Performed hierarchical clustering to group similar games based on sales patterns
 
-### 🔹 Regression Modeling
+### 🔹 **Regression Modeling**
 - Implemented linear regression to predict global sales
 - Built decision tree models for regional sales predictions
 
 ---
 
-## 📊 Visualizations
+## 📊 **Visualizations**
 
 - **📉 Linear Regression Output**  
-  ![Linear Regression](Output_graphs/Linear_Regression.png)
+  ![Linear Regression](output_graphs/Linear\ Regression.png)
 
 - **🌲 Decision Tree Model**  
-  ![Decision Tree Visualization](Output_graphs/Decision_Tree_visualization.png)
+  ![Decision Tree Visualization](output_graphs/Decision\ Tree\ visualization.png)
 
 - **🔗 Clustering Dendrogram**  
-  ![Cluster Plot VG Sales Data](Output_graphs/Cluster_Plot_for_VG_Sales_Data.png)
+  ![Cluster Plot VG Sales Data](output_graphs/Cluster\ Plot\ for\ VG\ Sales\ Data.png)
 
 - **📏 RMSE Comparison**  
-  ![RMSE Comparison](Output_graphs/RMSE_Comparison.png)
+  ![RMSE Comparison](output_graphs/RMSE\ Comparison.png)
 
 ---
 
-## 📌 Conclusion
+## 📌 **Conclusion**
 
 The project successfully demonstrates the application of machine learning techniques in R to predict video game sales. Through clustering and regression models, it provides insights into sales trends across different regions, aiding in strategic decision-making for game publishers.
