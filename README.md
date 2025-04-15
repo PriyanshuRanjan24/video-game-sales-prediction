@@ -54,13 +54,13 @@ video-game-sales-prediction/ ├── video_game_sales.R # Main R script ├─
 
 ## 📊 Visualizations
 
-### 📉 Linear Regression Output
+📉 Linear Regression Output  
 ![Linear Regression](output_graphs/linear_regression.png)
 
-### 🌲 Decision Tree Model
+🌲 Decision Tree Model  
 ![Decision Tree](output_graphs/decision_tree.png)
 
-### 🔗 Clustering Dendrogram
+🔗 Clustering Dendrogram  
 ![Clustering Dendrogram](output_graphs/cluster_dendrogram.png)
 
 ---
