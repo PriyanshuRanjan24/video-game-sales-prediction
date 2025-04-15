@@ -4,10 +4,15 @@ This project utilizes R to predict and analyze global video game sales. It inclu
 
 ---
 
-📁 **Project Structure**
-
-video-game-sales-prediction/ ├── video_game_sales.R # Main R script ├── vgsales.csv # Raw dataset ├── output_graphs/ # PNG visualizations │ ├── Linear Regression.png │ ├── Decision Tree visualization.png │ ├── Cluster Plot for VG Sales Data.png │ └── RMSE Comparison.png └── README.md # Project overview
-
+video-game-sales-prediction/
+├── output_graphs/                # Folder containing the visualizations in PNG format
+│   ├── Linear Regression.png     # Linear regression model output visualization
+│   ├── Decision Tree visualization.png  # Decision tree model visualization
+│   ├── Cluster Plot for VG Sales Data.png  # Cluster plot of the video game sales data
+│   └── RMSE Comparison.png       # Comparison of Root Mean Squared Error (RMSE) for different models
+├── vgsales.csv                   # Original dataset containing video game sales data
+├── video_game_sales.R            # Main R script for data preprocessing, analysis, and modeling
+└── README.md                     # Project overview and documentation
 
 ---
 
