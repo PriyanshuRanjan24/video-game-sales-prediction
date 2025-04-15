@@ -20,7 +20,7 @@ video-game-sales-prediction/
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle - Video Game Sales with Ratings](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings)
+- **Source**: [Kaggle - Video Game Sales with Ratings](https://www.kaggle.com/datasets/gregorut/videogamesales)
 - **Features**:
   - `Name`, `Platform`, `Year_of_Release`, `Genre`, `Publisher`
   - `NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`, `Global_Sales`
