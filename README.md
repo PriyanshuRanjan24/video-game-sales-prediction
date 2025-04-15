@@ -63,16 +63,16 @@ video-game-sales-prediction/
 ## 📊 **Visualizations**
 
 - **📉 Linear Regression Output**  
-  ![Linear Regression](output_graphs/Linear\ Regression.png)
+  ![Linear Regression](Output_graphs/Linear\Regression.png)
 
 - **🌲 Decision Tree Model**  
-  ![Decision Tree Visualization](output_graphs/Decision\ Tree\ visualization.png)
+  ![Decision Tree Visualization](Output_graphs/Decision\ Tree\ visualization.png)
 
 - **🔗 Clustering Dendrogram**  
-  ![Cluster Plot VG Sales Data](output_graphs/Cluster\ Plot\ for\ VG\ Sales\ Data.png)
+  ![Cluster Plot VG Sales Data](Output_graphs/Cluster\ Plot\ for\ VG\ Sales\ Data.png)
 
 - **📏 RMSE Comparison**  
-  ![RMSE Comparison](output_graphs/RMSE\ Comparison.png)
+  ![RMSE Comparison](Output_graphs/RMSE\ Comparison.png)
 
 ---
 
